@@ -14,6 +14,8 @@ AWS_SECRET_ACCESS_KEY=""
 AWS_DEFAULT_REGION=""
 ```
 
+The SEC_API_KEY should be used from your account on https://sec-api.io/
+
 Run the app with
 
 ```
